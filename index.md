@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: 个人简历
-home:
+homepage:
   text: 郝帅
   url:
 email:
