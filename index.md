@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 郝帅-后端工程师
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:shuai-hao1995@qq.com
+  text: shuai-hao1995@qq.com
+phone:
+  13191359776
 ---
 
-# Wode **Ni**
+# 郝帅
 
 <!--
 include contact information from the front matter
@@ -21,39 +20,31 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育背景
 
-### **Carnegie Mellon University** `2018.9 -`
-
-```
-Pittsburgh, PA
-```
-
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
+### **乔治城大学** `2017.9 -2019.6`
 
 ```
-New York, NY
+Washington DC, U.S.
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- 硕士, 计算机科学
+- GPA: 3.9/4.3
 
-### **Dickinson College** `2013.9 - 2016.5`
+### **浙江大学** `2013.9 - 2017.6`
 
 ```
-Carlisle, PA
+杭州, 浙江
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- 本科, 软件工程
+- GPA: 4.0/5.0
 
-## Publications
+
+## 工作经历
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
+**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br>
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
@@ -62,7 +53,7 @@ _In Proceedings of the 34th ACM Symposium on User Interface Software and Technol
 
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
+Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>
 _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
