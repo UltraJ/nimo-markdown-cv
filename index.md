@@ -7,7 +7,7 @@ email:
 
 ---
 
-# 个人简历
+# 郝帅-个人简历
 
 <!--
 include contact information from the front matter
